@@ -1,4 +1,4 @@
-git clone <remote-url>
+git clone <https://github.com/nikotatakis/nikotatakis.git>
 ls
 cd<workspace>
 ls -a
