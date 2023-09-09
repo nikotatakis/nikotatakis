@@ -1,1 +1,4 @@
-
+git clone <remote-url>
+ls
+cd<directory-name>
+ls -a
