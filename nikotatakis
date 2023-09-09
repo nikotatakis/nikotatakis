@@ -1,4 +1,4 @@
 git clone <remote-url>
 ls
-cd<directory-name>
+cd<workspace>
 ls -a
